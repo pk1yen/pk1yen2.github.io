@@ -1905,7 +1905,7 @@
 	}
 
 	header.major {
-		text-align: center;
+		c
 		margin: 0 0 2em 0;
 	}
 
@@ -2317,7 +2317,8 @@
 		}
 
 		.box.post .inner {
-			margin-left: calc(30% + 2em);
+			margin-left: calc(30% + 1em);
+            margin-right: calc(10% + 1em);
 		}
 
 			.box.post .inner > :last-child {
